@@ -45,8 +45,8 @@
 Рисунок 12: ![img_10.png](screenshoots%2Fimg_10.png) ![img_12.png](screenshoots%2Fimg_12.png)
 
 Альтернативный обработчик события с использованием атрибута onClick в XML-файле:
-Ссылки на изображения: img_11.png, ![img_11.png](screenshoots%2Fimg_11.png)
+Ссылки на изображения: ![img_11.png](screenshoots%2Fimg_11.png)
 
 Добавление элемента CheckBox:
 Элемент CheckBox изменяет свое состояние и текст в TextView при нажатии.
-Ссылка на изображение: img_13.png
+Ссылка на изображение: ![img_13.png](screenshoots%2Fimg_13.png)
